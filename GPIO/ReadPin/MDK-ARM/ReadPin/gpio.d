@@ -7,9 +7,9 @@ readpin/gpio.o: ..\Core\Src\gpio.c ..\Core\Inc\gpio.h ..\Core\Inc\main.h \
   ..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h \
   ..\Drivers\CMSIS\Include\core_cm3.h \
   C:\Keil_v5\ARM\ARMCLANG\include\stdint.h \
-  C:\Users\Acer\Desktop\arm\ReadPin\Drivers\CMSIS\Include\cmsis_version.h \
-  C:\Users\Acer\Desktop\arm\ReadPin\Drivers\CMSIS\Include\cmsis_compiler.h \
-  C:\Users\Acer\Desktop\arm\ReadPin\Drivers\CMSIS\Include\cmsis_armclang.h \
+  C:\Users\Acer\Documents\GitHub\ARM\GPIO\ReadPin\Drivers\CMSIS\Include\cmsis_version.h \
+  C:\Users\Acer\Documents\GitHub\ARM\GPIO\ReadPin\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\Users\Acer\Documents\GitHub\ARM\GPIO\ReadPin\Drivers\CMSIS\Include\cmsis_armclang.h \
   C:\Keil_v5\ARM\ARMCLANG\include\arm_compat.h \
   C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h \
   ..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h \
