@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"oledtest\startup_stm32f103xb.o"
+"oledtest\ssd1306.o"
+"oledtest\ssd1306_fonts.o"
+"oledtest\main.o"
+"oledtest\gpio.o"
+"oledtest\spi.o"
+"oledtest\stm32f1xx_it.o"
+"oledtest\stm32f1xx_hal_msp.o"
+"oledtest\stm32f1xx_hal_gpio_ex.o"
+"oledtest\stm32f1xx_hal_spi.o"
+"oledtest\stm32f1xx_hal.o"
+"oledtest\stm32f1xx_hal_rcc.o"
+"oledtest\stm32f1xx_hal_rcc_ex.o"
+"oledtest\stm32f1xx_hal_gpio.o"
+"oledtest\stm32f1xx_hal_dma.o"
+"oledtest\stm32f1xx_hal_cortex.o"
+"oledtest\stm32f1xx_hal_pwr.o"
+"oledtest\stm32f1xx_hal_flash.o"
+"oledtest\stm32f1xx_hal_flash_ex.o"
+"oledtest\stm32f1xx_hal_exti.o"
+"oledtest\system_stm32f1xx.o"
+--strict --scatter "oledtest\oledtest.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "oledtest.map" -o oledtest\oledtest.axf
