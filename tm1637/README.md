@@ -99,6 +99,7 @@ true: پر کردن
 false: پاک کردن نمایشگر
 
 🛠 نمونه استفاده
+```c
 tm1637_t display;
 tm1637_init(&display, GPIOB, GPIO_PIN_6, GPIOB, GPIO_PIN_7);
 tm1637_brightness(&display, 5);
@@ -106,19 +107,10 @@ tm1637_write_int(&display, 123, 0);
 tm1637_write_float(&display, 23.5, 1, 0);
 uint8_t seg_Tm16[4] = {SegT,SegM,Seg1,Seg6};
 tm1637_write_segment(&display,  seg_Tm16 , 4, 0);
+```
 برای روشن شدن چراغ های وسط :
-
+```c
 uint8_t seg_Tm16[4] = {SegT,SegM+128,Seg1,Seg6};
 tm1637_write_segment(&display,  seg_Tm16 , 4, 0);
-
-
-
-
-
-
-
-
-
-
-
+```
 
