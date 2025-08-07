@@ -30,16 +30,17 @@ gpio_clk و pin_clk: پورت و پین مربوط به CLK
 
 gpio_dat و pin_dat: پورت و پین مربوط به DATA
 
-tm1637_brightness
+### `tm1637_brightness`
+```c
 void tm1637_brightness(tm1637_t *tm1637, uint8_t brightness_0_to_7);
-
+```
 تنظیم شدت روشنایی نمایشگر (مقدار بین ۰ تا ۷)
 
 
-tm1637_write_segment
-
+### `tm1637_write_segment`
+```c
 void tm1637_write_segment(tm1637_t *tm1637, const uint8_t *segments, uint8_t length, uint8_t pos);
-
+```
 
 نوشتن مستقیم اطلاعات سگمنت‌ها روی نمایشگر.
 
@@ -51,9 +52,10 @@ pos: موقعیت شروع (بین ۰ تا ۳)
 
 
 
-tm1637_write_int
+### `tm1637_write_int`
+```c
 void tm1637_write_int(tm1637_t *tm1637, int32_t digit, uint8_t pos);
-
+```
 نمایش عدد صحیح روی نمایشگر.
 
 digit: عدد موردنظر
@@ -61,8 +63,10 @@ digit: عدد موردنظر
 pos: محل شروع نمایش
 
 
-tm1637_write_float
+### `tm1637_write_float`
+```c
 void tm1637_write_float(tm1637_t *tm1637, float digit, uint8_t floating_digit, uint8_t pos);
+```
 مایش عدد اعشاری.
 
 digit: عدد اعشاری مورد نظر
@@ -72,8 +76,10 @@ floating_digit: تعداد رقم اعشار
 pos: محل شروع نمایش
 
 
-tm1637_show_zero
+### `tm1637_show_zero`
+```c
 void tm1637_show_zero(tm1637_t *tm1637, bool enable);
+```
 نمایش یا عدم نمایش صفرهای ابتدایی.
 
 true: نمایش صفرهای ابتدایی
@@ -81,8 +87,10 @@ true: نمایش صفرهای ابتدایی
 false: حذف صفرهای ابتدایی
 
 
-tm1637_fill
+### `tm1637_fill`
+```c
 void tm1637_fill(tm1637_t *tm1637, bool enable);
+```
 
 نمایش عدد ۸ روی همه‌ی سگمنت‌ها (برای تست)
 
@@ -96,8 +104,12 @@ tm1637_init(&display, GPIOB, GPIO_PIN_6, GPIOB, GPIO_PIN_7);
 tm1637_brightness(&display, 5);
 tm1637_write_int(&display, 123, 0);
 tm1637_write_float(&display, 23.5, 1, 0);
+uint8_t seg_Tm16[4] = {SegT,SegM,Seg1,Seg6};
+tm1637_write_segment(&display,  seg_Tm16 , 4, 0);
+برای روشن شدن چراغ های وسط :
 
-
+uint8_t seg_Tm16[4] = {SegT,SegM+128,Seg1,Seg6};
+tm1637_write_segment(&display,  seg_Tm16 , 4, 0);
 
 
 
