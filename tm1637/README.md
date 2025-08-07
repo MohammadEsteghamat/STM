@@ -108,6 +108,7 @@ tm1637_write_float(&display, 23.5, 1, 0);
 uint8_t seg_Tm16[4] = {SegT,SegM,Seg1,Seg6};
 tm1637_write_segment(&display,  seg_Tm16 , 4, 0);
 ```
+![](https://github.com/MohammadEsteghamat/ARM/blob/main/tm1637/photo20202298632.jpg)
 برای روشن شدن چراغ های وسط :
 ```c
 uint8_t seg_Tm16[4] = {SegT,SegM+128,Seg1,Seg6};
