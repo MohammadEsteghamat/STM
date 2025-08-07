@@ -103,7 +103,7 @@ int main(void)
 			LCD_ShowChar(16, 10, 'B');
 			LCD_ShowChar(22, 10, 'C');
 			Draw_Circle(120, 160, 50, 0xF800);
-			LCD_ShowString(100,10,200,200,10,"MOHAMMAD");
+			LCD_ShowString(100,10,200,200,10,"ESTEGHAMAT");
 			LCD_Fill(0,0,100,100,COLOR.BLUE);
 			LCD_Show_Image(0, 0, 100, 114, imageData,1,1,1);
 			
