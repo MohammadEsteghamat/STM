@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"vv\startup_stm32f103xb.o"
+"vv\lcd.o"
+"vv\main.o"
+"vv\gpio.o"
+"vv\adc.o"
+"vv\stm32f1xx_it.o"
+"vv\stm32f1xx_hal_msp.o"
+"vv\stm32f1xx_hal_gpio_ex.o"
+"vv\stm32f1xx_hal_adc.o"
+"vv\stm32f1xx_hal_adc_ex.o"
+"vv\stm32f1xx_hal.o"
+"vv\stm32f1xx_hal_rcc.o"
+"vv\stm32f1xx_hal_rcc_ex.o"
+"vv\stm32f1xx_hal_gpio.o"
+"vv\stm32f1xx_hal_dma.o"
+"vv\stm32f1xx_hal_cortex.o"
+"vv\stm32f1xx_hal_pwr.o"
+"vv\stm32f1xx_hal_flash.o"
+"vv\stm32f1xx_hal_flash_ex.o"
+"vv\stm32f1xx_hal_exti.o"
+"vv\system_stm32f1xx.o"
+--strict --scatter "vv\vv.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "vv.map" -o vv\vv.axf
