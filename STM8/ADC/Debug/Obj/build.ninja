@@ -1,0 +1,34 @@
+#Generating source browse information for project adc
+
+
+#Abbreviations
+cc = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\SourceIndexer.exe
+ll = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\PbdLink.exe
+bd = C$:\Program$ Files$ (x86)\IAR$ Systems\Embedded$ Workbench$ 8.3\common\bin\makeBrowseData.exe
+
+
+
+#Rules
+rule index
+  depfile = $out.dep
+  command = $cc -out=$out -f $in
+rule link
+  command = $ll -M $out $in
+rule browsedata
+  command = $bd $in -output  $out
+
+
+
+#Build steps
+build main.pbi : index main.xcl
+build stm8s_adc1.pbi : index stm8s_adc1.xcl
+build stm8s_clk.pbi : index stm8s_clk.xcl
+build stm8s_gpio.pbi : index stm8s_gpio.xcl
+build tm1637.pbi : index tm1637.xcl
+build adc_part0.pbi : link main.pbi stm8s_adc1.pbi
+build adc_part1.pbi : link stm8s_clk.pbi stm8s_gpio.pbi
+build adc_part2.pbi : link tm1637.pbi
+build adc.pbd : link adc_part0.pbi adc_part1.pbi adc_part2.pbi
+build adc.pbw : browsedata adc.pbd
+
+

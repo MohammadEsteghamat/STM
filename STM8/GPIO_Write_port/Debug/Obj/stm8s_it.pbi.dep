@@ -1,0 +1,2 @@
+stm8s_it.pbi: E:\my_GitHub\STM8\GPIO_Write_port\stm8s_it.c \
+  E:\my_GitHub\STM8\GPIO_Write_port/stm8s_it.h

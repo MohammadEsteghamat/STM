@@ -1,0 +1,1516 @@
+[
+  {
+    "ID": "c:tm1637.h@28@macro@_TM1637_H_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_TM1637_H_",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "_TM1637_H_",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@71@macro@tm_segment",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "tm_segment",
+    "location": {
+      "column": "10",
+      "line": "5",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm_segment",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@97@macro@Seg0",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg0",
+    "location": {
+      "column": "10",
+      "line": "7",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg0",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@124@macro@Seg1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg1",
+    "location": {
+      "column": "10",
+      "line": "8",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@151@macro@Seg2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg2",
+    "location": {
+      "column": "10",
+      "line": "9",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@178@macro@Seg3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg3",
+    "location": {
+      "column": "10",
+      "line": "10",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@205@macro@Seg4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg4",
+    "location": {
+      "column": "10",
+      "line": "11",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg4",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@232@macro@Seg5",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg5",
+    "location": {
+      "column": "10",
+      "line": "12",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg5",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@259@macro@Seg6",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg6",
+    "location": {
+      "column": "10",
+      "line": "13",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg6",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@286@macro@Seg7",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg7",
+    "location": {
+      "column": "10",
+      "line": "14",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg7",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@313@macro@Seg8",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg8",
+    "location": {
+      "column": "10",
+      "line": "15",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg8",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@340@macro@Seg9",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg9",
+    "location": {
+      "column": "10",
+      "line": "16",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg9",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@367@macro@SegA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegA",
+    "location": {
+      "column": "10",
+      "line": "17",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegA",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@394@macro@SegB",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegB",
+    "location": {
+      "column": "10",
+      "line": "18",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegB",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@421@macro@SegC",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegC",
+    "location": {
+      "column": "10",
+      "line": "19",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegC",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@448@macro@SegD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegD",
+    "location": {
+      "column": "10",
+      "line": "20",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@475@macro@SegE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegE",
+    "location": {
+      "column": "10",
+      "line": "21",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@502@macro@SegF",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegF",
+    "location": {
+      "column": "10",
+      "line": "22",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegF",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@529@macro@SegG",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegG",
+    "location": {
+      "column": "10",
+      "line": "23",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegG",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@556@macro@SegH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegH",
+    "location": {
+      "column": "10",
+      "line": "24",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegH",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@583@macro@SegI",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegI",
+    "location": {
+      "column": "10",
+      "line": "25",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegI",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@610@macro@SegJ",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegJ",
+    "location": {
+      "column": "10",
+      "line": "26",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegJ",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@637@macro@SegK",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegK",
+    "location": {
+      "column": "10",
+      "line": "27",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegK",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@664@macro@SegL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegL",
+    "location": {
+      "column": "10",
+      "line": "28",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegL",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@691@macro@SegM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegM",
+    "location": {
+      "column": "10",
+      "line": "29",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegM",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@718@macro@SegN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegN",
+    "location": {
+      "column": "10",
+      "line": "30",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@745@macro@SegO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegO",
+    "location": {
+      "column": "10",
+      "line": "31",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@772@macro@SegP",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegP",
+    "location": {
+      "column": "10",
+      "line": "32",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegP",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@799@macro@SegQ",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegQ",
+    "location": {
+      "column": "10",
+      "line": "33",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegQ",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@826@macro@SegR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegR",
+    "location": {
+      "column": "10",
+      "line": "34",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@845@macro@SegS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegS",
+    "location": {
+      "column": "10",
+      "line": "35",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@865@macro@SegT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegT",
+    "location": {
+      "column": "10",
+      "line": "36",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegT",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@885@macro@SegU",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegU",
+    "location": {
+      "column": "10",
+      "line": "37",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegU",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@912@macro@SegV",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegV",
+    "location": {
+      "column": "10",
+      "line": "38",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegV",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@939@macro@SegW",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegW",
+    "location": {
+      "column": "10",
+      "line": "39",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegW",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@966@macro@SegX",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegX",
+    "location": {
+      "column": "10",
+      "line": "40",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegX",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@993@macro@SegY",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegY",
+    "location": {
+      "column": "10",
+      "line": "41",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegY",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@1020@macro@SegZ",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SegZ",
+    "location": {
+      "column": "10",
+      "line": "42",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "SegZ",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@1038@macro@Seg_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Seg_",
+    "location": {
+      "column": "10",
+      "line": "43",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "Seg_",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.h@S@tm1637.h@1188",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "",
+    "location": {
+      "column": "9",
+      "line": "47",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "members": [
+      {
+        "ID": "c:tm1637.h@S@tm1637.h@1188@FI@lock",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "lock",
+        "location": {
+          "column": "25",
+          "line": "49",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "lock",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      },
+      {
+        "ID": "c:tm1637.h@S@tm1637.h@1188@FI@brightness",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "brightness",
+        "location": {
+          "column": "25",
+          "line": "50",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "brightness",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      },
+      {
+        "ID": "c:tm1637.h@S@tm1637.h@1188@FI@show_zero",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "show_zero",
+        "location": {
+          "column": "25",
+          "line": "51",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "show_zero",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      },
+      {
+        "ID": "c:tm1637.h@S@tm1637.h@1188@FI@gpio_clk",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "gpio_clk",
+        "location": {
+          "column": "26",
+          "line": "52",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "gpio_clk",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      },
+      {
+        "ID": "c:tm1637.h@S@tm1637.h@1188@FI@gpio_dat",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "gpio_dat",
+        "location": {
+          "column": "26",
+          "line": "53",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "gpio_dat",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      },
+      {
+        "ID": "c:tm1637.h@S@tm1637.h@1188@FI@pin_clk",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "pin_clk",
+        "location": {
+          "column": "25",
+          "line": "54",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "pin_clk",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      },
+      {
+        "ID": "c:tm1637.h@S@tm1637.h@1188@FI@pin_dat",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "pin_dat",
+        "location": {
+          "column": "25",
+          "line": "55",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "pin_dat",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      },
+      {
+        "ID": "c:tm1637.h@T@tm1637_t",
+        "What": "TypedefDecl",
+        "defdec": "Def",
+        "display": "struct (anonymous struct at E:\\my_GitHub\\STM8\\TM1637/tm1637.h:47:9)",
+        "location": {
+          "column": "2",
+          "line": "57",
+          "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+        },
+        "name": "tm1637_t",
+        "origin": "user_include",
+        "scope": "_anonymous_tm1637_h_47_9"
+      }
+    ],
+    "name": "",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay_ms",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void delay_ms(unsigned long)",
+    "location": {
+      "column": "6",
+      "line": "60",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "delay_ms",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay_ms",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void delay_ms(unsigned long)",
+    "location": {
+      "column": "6",
+      "line": "60",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "delay_ms",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_init(tm1637_t *, int *, int, int *, int)",
+    "location": {
+      "column": "6",
+      "line": "61",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_brightness",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_brightness(tm1637_t *, int)",
+    "location": {
+      "column": "6",
+      "line": "62",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_brightness",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_write_segment",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_write_segment(tm1637_t *, const int *)",
+    "location": {
+      "column": "6",
+      "line": "63",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_write_segment",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_fill",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_fill(tm1637_t *, char)",
+    "location": {
+      "column": "6",
+      "line": "64",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_fill",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_fill",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_fill(tm1637_t *, char)",
+    "location": {
+      "column": "6",
+      "line": "64",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_fill",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_write_int",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_write_int(tm1637_t *, int)",
+    "location": {
+      "column": "6",
+      "line": "65",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_write_int",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_show_zero",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_show_zero(tm1637_t *, char)",
+    "location": {
+      "column": "6",
+      "line": "66",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_show_zero",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_show_zero",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tm1637_show_zero(tm1637_t *, char)",
+    "location": {
+      "column": "6",
+      "line": "66",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.h"
+    },
+    "name": "tm1637_show_zero",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@clk_HSE",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void clk_HSE(void)",
+    "location": {
+      "column": "6",
+      "line": "4",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\main.c"
+    },
+    "name": "clk_HSE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@disp",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "disp",
+    "location": {
+      "column": "10",
+      "line": "6",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\main.c"
+    },
+    "name": "disp",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void main(void)",
+    "location": {
+      "column": "6",
+      "line": "7",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@334@F@main@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "18",
+      "line": "19",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@clk_HSE",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void clk_HSE(void)",
+    "location": {
+      "column": "6",
+      "line": "26",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\main.c"
+    },
+    "name": "clk_HSE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER_TRAP",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER_TRAP(int)",
+    "location": {
+      "column": "1",
+      "line": "66",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER_TRAP",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "78",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "91",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "103",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "115",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "129",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "141",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "153",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "166",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "218",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "230",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "242",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "280",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "292",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "385",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "464",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "2",
+      "line": "490",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@INTERRUPT_HANDLER",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int INTERRUPT_HANDLER(void)",
+    "location": {
+      "column": "1",
+      "line": "503",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.c"
+    },
+    "name": "INTERRUPT_HANDLER",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm8s_it.h@1259@macro@__STM8S_IT_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__STM8S_IT_H",
+    "location": {
+      "column": "9",
+      "line": "30",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\stm8s_it.h"
+    },
+    "name": "__STM8S_IT_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@_tm1637_digit",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "_tm1637_digit",
+    "location": {
+      "column": "15",
+      "line": "5",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "_tm1637_digit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@_tm1637_on",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "_tm1637_on",
+    "location": {
+      "column": "15",
+      "line": "7",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "_tm1637_on",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@_tm1637_off",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "_tm1637_off",
+    "location": {
+      "column": "15",
+      "line": "8",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "_tm1637_off",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@fill_off",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "fill_off",
+    "location": {
+      "column": "15",
+      "line": "9",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "fill_off",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@_tm1637_minus",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "_tm1637_minus",
+    "location": {
+      "column": "15",
+      "line": "10",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "_tm1637_minus",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@_tm1637_dot",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "_tm1637_dot",
+    "location": {
+      "column": "15",
+      "line": "11",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "_tm1637_dot",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay_ms",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void delay_ms(unsigned long)",
+    "location": {
+      "column": "6",
+      "line": "12",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "delay_ms",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.c@450@F@delay_ms@x",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "x",
+    "location": {
+      "column": "21",
+      "line": "13",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "x",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.c@478@F@delay_ms@fcpu",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "fcpu",
+    "location": {
+      "column": "17",
+      "line": "14",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "fcpu",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.c@593@macro@tm1637_delay_ms",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "tm1637_delay_ms",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_delay_ms",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.c@638@macro@TM1637_COMM1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TM1637_COMM1",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "TM1637_COMM1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.c@668@macro@TM1637_COMM2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TM1637_COMM2",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "TM1637_COMM2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tm1637.c@698@macro@TM1637_COMM3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TM1637_COMM3",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "TM1637_COMM3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_delay_us",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_delay_us(int)",
+    "location": {
+      "column": "6",
+      "line": "30",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_delay_us",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_start",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_start(tm1637_t *)",
+    "location": {
+      "column": "6",
+      "line": "39",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_start",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_stop",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_stop(tm1637_t *)",
+    "location": {
+      "column": "6",
+      "line": "45",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_stop",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_write_byte",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int tm1637_write_byte(tm1637_t *, int)",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_write_byte",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_lock",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_lock(tm1637_t *)",
+    "location": {
+      "column": "6",
+      "line": "86",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_lock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_unlock",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_unlock(tm1637_t *)",
+    "location": {
+      "column": "6",
+      "line": "93",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_unlock",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_init(tm1637_t *, int *, int, int *, int)",
+    "location": {
+      "column": "6",
+      "line": "98",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_brightness",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_brightness(tm1637_t *, int)",
+    "location": {
+      "column": "6",
+      "line": "113",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_brightness",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_write_raw",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_write_raw(tm1637_t *, const int *)",
+    "location": {
+      "column": "6",
+      "line": "120",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_write_raw",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_write_segment",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_write_segment(tm1637_t *, const int *)",
+    "location": {
+      "column": "6",
+      "line": "141",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_write_segment",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_fill",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_fill(tm1637_t *, char)",
+    "location": {
+      "column": "6",
+      "line": "148",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_fill",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_write_int",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_write_int(tm1637_t *, int)",
+    "location": {
+      "column": "6",
+      "line": "156",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_write_int",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tm1637_show_zero",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tm1637_show_zero(tm1637_t *, char)",
+    "location": {
+      "column": "6",
+      "line": "178",
+      "path": "E:\\my_GitHub\\STM8\\TM1637\\tm1637.c"
+    },
+    "name": "tm1637_show_zero",
+    "origin": "project_file",
+    "scope": null
+  }
+]

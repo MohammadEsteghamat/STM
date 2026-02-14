@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\blink\blink.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\GPIO_Write_port\port.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\read.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
